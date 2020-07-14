@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jul 2020 12:43:08 at http://tavonline.net/html/madrid/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://tavonline.net/html/madrid/ -O1 "C:\My Web Sites\newww" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:52:32	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/fonts/glyphicons-halflings-regular.eot (from tavonline.net/html/madrid/css/bootstrap.css)
+12:52:32	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/fonts/glyphicons-halflings-regular.eot? (from tavonline.net/html/madrid/css/bootstrap.css)
+12:52:32	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/fonts/glyphicons-halflings-regular.woff2 (from tavonline.net/html/madrid/css/bootstrap.css)
+12:52:32	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/fonts/glyphicons-halflings-regular.woff (from tavonline.net/html/madrid/css/bootstrap.css)
+12:52:32	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/fonts/glyphicons-halflings-regular.ttf (from tavonline.net/html/madrid/css/bootstrap.css)
+12:52:32	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/fonts/glyphicons-halflings-regular.svg (from tavonline.net/html/madrid/css/bootstrap.css)
+12:52:32	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/icon-fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0 (from tavonline.net/html/madrid/icon-fonts/font-awesome-4.5.0/css/font-awesome.min.css)
+12:52:40	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/icon-fonts/font-awesome-4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0 (from tavonline.net/html/madrid/icon-fonts/font-awesome-4.5.0/css/font-awesome.min.css)
+12:53:09	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/img/blog-2.jpg (from tavonline.net/html/madrid/blogs-page.html)
+12:53:17	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/img/singlework/thegang.jpg (from tavonline.net/html/madrid/work-1.html)
+12:53:18	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/img/singlework/environmental-3.jpg (from tavonline.net/html/madrid/work-3.html)
+12:53:35	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/img/singlework/massimo-4.jpg (from tavonline.net/html/madrid/work-6.html)
+12:53:44	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/img/singlework/mall-2.jpg (from tavonline.net/html/madrid/work-9.html)
+12:53:45	Warning: 	Retry after error -4 (No data (connection closed)) at link tavonline.net/html/madrid/css/AjaxLoader.gif (from tavonline.net/html/madrid/css/owl.theme.min.css)
+12:54:12	Error: 	"Not Found" (404) at link tavonline.net/html/madrid/css/AjaxLoader.gif (from tavonline.net/html/madrid/css/owl.theme.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 4 seconds : 126 links scanned, 110 files written (17236049 bytes overall) [16492167 bytes received at 24837 bytes/sec], 1091257 bytes transferred using HTTP compression in 27 files, ratio 27%, 2.0 requests per connection
+(7 errors, 8 warnings, 0 messages)
